@@ -1,0 +1,8 @@
+*
+!*/
+!*.*
+tempCodeRunnerFile.cpp
+hello.cpp
+*.dSYM/
+.executables/*
+.vs
